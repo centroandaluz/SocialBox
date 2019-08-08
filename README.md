@@ -1,5 +1,5 @@
 # SocialBox
-SocialBox es una herramienta de fuerza bruta [Facebook, Gmail, Instagram, Twitter] codificado por Belahsan Ouerghi
+SocialBox es una herramienta de ataque de fuerza bruta [Facebook, Gmail, Instagram, Twitter] codificado por Belahsan Ouerghi
 # Instalación
 ```
 sudo apt-get install git
